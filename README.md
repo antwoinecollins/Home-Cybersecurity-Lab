@@ -24,9 +24,9 @@ Note: Exact models of sensitive monitoring or offensive tools are intentionally 
 - Endpoint monitoring, automation, and incident response exercises
 - Vulnerability assessment and internal penetration testing
   
-## Visuals
 **Lab Setup Photo**  
-![Home Lab]([https://docs.google.com/document/d/1-gEFI5Wev6z_e9XG-A3g_VRC1K22EfJ1XEdYvrYiYGE/edit?usp=sharing])
+![Home Lab](https://github.com/antwoinecollins/Home-Cybersecurity-Lab/blob/main/HOME%20LAB2.jpg?raw=true)
 
 **Network Diagram**  
-![Network Diagram]([https://docs.google.com/document/d/1jZVorFRRdm1l3RXbdB0TQKd3_lmzFtpuRDcV55uss1U/edit?usp=sharing])
+![Network Diagram](https://github.com/antwoinecollins/Home-Cybersecurity-Lab/blob/main/HOME%20LAB%20DIAGRAM.png?raw=true)
+
