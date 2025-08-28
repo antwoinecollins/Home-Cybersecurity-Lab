@@ -25,8 +25,9 @@ Note: Exact models of sensitive monitoring or offensive tools are intentionally 
 - Vulnerability assessment and internal penetration testing
   
 **Lab Setup Photo**  
-![Home Lab](https://github.com/antwoinecollins/Home-Cybersecurity-Lab/blob/main/HOME%20LAB3.1jpg?raw=true)
+![Home Lab](https://github.com/antwoinecollins/Home-Cybersecurity-Lab/blob/main/HOME%20LAB3.1.jpeg?raw=true)
 
 **Network Diagram**  
 ![Network Diagram](https://github.com/antwoinecollins/Home-Cybersecurity-Lab/blob/main/HOME%20LAB%20DIAGRAM.png?raw=true)
+
 
